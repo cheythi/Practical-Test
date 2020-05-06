@@ -4,7 +4,7 @@ Programming Applications and Frameworks - Ptactical test
 Technology Stack
  RESTful web service: Java – JAX-RS (Jersey) on Tomcat
  DB: MySQL
- View: HTML, CSS, Bootstrap (optional), Form and Grid UI design pattern
+ View: HTML, CSS, Bootstrap, Form and Grid UI design pattern
  Client-components: jQuery, Ajax for DC. 
 
 
